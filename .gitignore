@@ -1,0 +1,17 @@
+# ignore compiled files
+*/*.o
+*/*/*.o
+
+# ignore exo files
+Exercice/
+
+# ignore qmake Makefile
+Makefile
+general/Makefile
+Qt_GL/Makefile
+Tests/Makefile
+general/libgeneral.a
+
+# ignore executable
+Qt_GL/projet_gl
+text/projet_text
