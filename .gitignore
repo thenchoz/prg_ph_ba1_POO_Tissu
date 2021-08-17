@@ -15,3 +15,7 @@ general/libgeneral.a
 # ignore executable
 Qt_GL/projet_gl
 text/projet_text
+
+# ignore qmake files
+.qmake.stash
+Qt_GL/qrc_resource.cpp
